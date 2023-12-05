@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/colorReact/static/css/main.21cf19a7.css",
+    "main.js": "/colorReact/static/js/main.c6a91d2c.js",
+    "index.html": "/colorReact/index.html",
+    "main.21cf19a7.css.map": "/colorReact/static/css/main.21cf19a7.css.map",
+    "main.c6a91d2c.js.map": "/colorReact/static/js/main.c6a91d2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21cf19a7.css",
+    "static/js/main.c6a91d2c.js"
+  ]
+}
